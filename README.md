@@ -86,6 +86,5 @@ JSON datu apstrāde un vizualizācija
 
 Testēšana un uzlabojumi
 
-8.
 
-Dokumentācija un publicēšana GitHub
+
